@@ -97,6 +97,7 @@ li {
 
 #lista-de-tareas .tarea-id {
     margin-bottom: 5px;
+    font-weight: bold;
 }
 
 #lista-de-tareas .tarea-descripcion {
